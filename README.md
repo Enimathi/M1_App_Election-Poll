@@ -24,6 +24,20 @@ Defining Our System
 # SWOT ANALYSIS
 
 # Who
+Membership Associations
+
+Educational Institutions
+
+Corporations
+
+Clubs
+
+Government Bodies
+
+Unions
+
+Partnerships
+
 
 # What
 What is an online Election system?
