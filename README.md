@@ -6,9 +6,25 @@
 
 
 
-Cost and Features and Timeline
+# Cost and Features and Timeline
 
+Fast and easy way of conducting Election.
 
+Voters can view background of each Candidate.
+
+Candidate can present themselves against voters.
+
+Admin can verify the documents and details of Candidate.
+
+System Generated Unique ID and Password gives more Secure Logins.
+
+Result will be out after 2 Hrs of Election.
+
+# DrawBacks
+
+Chances of hacking candidate or voters account.
+
+Every voter does not have pc or net connection, so voters can even go in polling booth and vote online there.
 
 
 
