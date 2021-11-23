@@ -46,7 +46,6 @@ Detail requirements
 | 3     | Admin login | Implemented|
 | 4     | Password Authentication|  Implemented|
 |  5   | User voting| Implemented|
-
 |  6   | Results| Implemented|
 |  7   | Candidate profile creation|Implemented|
 |  8   | Log out| Implemented|
