@@ -37,7 +37,7 @@ How:
 Detail requirements
 
 
-# High Level Requirements:
+# High Level Requirements
 
 | ID     | Description | Status |
 | ---      | ---       | --- 	|
@@ -62,4 +62,15 @@ Detail requirements
 
 
 
-Low level Requirements:
+# Low level Requirements
+
+
+| ID     | Description | Status |
+| ---      | ---       | --- 	|
+| 1 | Counting Votes|	Implemented|
+| 2     | Removing Duplicate Votes | Implemented|
+| 3     | User Id Generation| Implemented|
+| 4     | Ban User Id|  Implemented|
+|  5   | Exit From Panel| Implemented|
+|  6   | Voting Percentage| Future|
+|  7   | User Profile|Future|
