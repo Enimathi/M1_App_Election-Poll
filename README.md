@@ -21,17 +21,30 @@ Defining Our System
 
 
 
-SWOT ANALYSIS
+# SWOT ANALYSIS
 
-Who:
+# Who:
 
-What:
+# What:
+What is an online Election system?
+An online Election system is a software platform that allows People to securely conduct elections. High-quality online voting systems balance ballot security, accessibility, fleibility compactablity and the overall requirements of an organization's voting event.
 
-When:
+# When:
 
-Where:
+# Where:
 
-How:
+# How:
+How do you use an online voting or election system?
+
+A high-quality online elction system will offer these functionalities:
+
+Create what is to be voted on.
+
+Upload your list of voters. The individuals in your group who are eligible to vote on ballots need to be uploaded into the voting system. Often, you’ll have the option of grouping these individuals into different segments.
+
+Notify and follow up with your voters. You’ll need to let your voters know about upcoming votes and elections. And you’ll probably want to remind those that haven’t voted.
+
+Gather and report on your results. After you vote, you’ll want to determine who or what won out over others. This may be an internal review or you may want to immediately share the results with your group.
 
 
 # DETAIL REQUIREMENTS
