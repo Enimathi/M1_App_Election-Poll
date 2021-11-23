@@ -3,10 +3,13 @@
 
 # Requirements
 
+# ABSTRACT
 
 
+# DEFINING OUR SYSTEM
 
-# Cost and Features and Timeline
+
+# COST and FEATURES and TIMELINE
 
 Fast and easy way of conducting Election.
 
@@ -25,15 +28,6 @@ Result will be out after 2 Hrs of Election.
 Chances of hacking candidate or voters account.
 
 Every voter does not have pc or net connection, so voters can even go in polling booth and vote online there.
-
-
-
-
-Defining Our System
-
-
-
-
 
 
 
