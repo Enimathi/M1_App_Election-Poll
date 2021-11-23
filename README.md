@@ -39,9 +39,10 @@ Detail requirements
 
 # High Level Requirements:
 
-ID	Description	Status
-LOGIN		
-		
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |	
 		
 		
 		
