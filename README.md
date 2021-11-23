@@ -1,7 +1,7 @@
-# Online Election System:
+# Online Election System
 
 
-# Requirements
+# GAP ANALYSIS
 
 # ABSTRACT
 
