@@ -39,11 +39,10 @@ Detail requirements
 
 # High Level Requirements:
 
-| Name     | Character |
-| ---      | ---       |
-| Backtick | `         |
-| Pipe     | \|        |	
-		
+| ID     | Description | Status |
+| ---      | ---       | --- 	|
+| Login | User and Admin Login       |	Implemented|
+| Pipe     | \|        |	|	
 		
 		
 		
