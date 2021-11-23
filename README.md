@@ -23,17 +23,17 @@ Defining Our System
 
 # SWOT ANALYSIS
 
-# Who:
+# Who
 
-# What:
+# What
 What is an online Election system?
 An online Election system is a software platform that allows People to securely conduct elections. High-quality online voting systems balance ballot security, accessibility, fleibility compactablity and the overall requirements of an organization's voting event.
 
-# When:
+# When
 
-# Where:
+# Where
 
-# How:
+# How
 How do you use an online voting or election system?
 
 A high-quality online elction system will offer these functionalities:
