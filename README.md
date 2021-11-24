@@ -1,5 +1,7 @@
 # Online Election System
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8f472a59684a4da7a8d5d9f017058f25)](https://app.codacy.com/gh/Enimathi/M1_App_Election-Poll?utm_source=github.com&utm_medium=referral&utm_content=Enimathi/M1_App_Election-Poll&utm_campaign=Badge_Grade_Settings)
+
 FOLDER STRUCTURE
 
 | Folder Name     | Description | 
