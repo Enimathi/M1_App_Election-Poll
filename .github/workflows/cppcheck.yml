@@ -1,3 +1,4 @@
+
 name: Static code Cppcheck
 on: [push]
 
